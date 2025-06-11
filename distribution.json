@@ -11,7 +11,7 @@
       "id": "hugyeso-1.20.1",
       "name": "hugyeso (Minecraft 1.20.1)",
       "description": "hugyeso Running Minecraft 1.20.1 (Forge v47.4.0)",
-      "icon": null,
+      "icon": "https://kyh20020407.github.io/hgslauncher/servers/hugyeso-1.20.1/icon.png",
       "version": "",
       "address": "hugyeso.kro.kr:25565",
       "minecraftVersion": "1.20.1",
